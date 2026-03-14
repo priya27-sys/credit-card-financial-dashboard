@@ -1,5 +1,5 @@
 # Credit Card Financial Dashboard
-![Cover](cover.jpg)
+![Cover](cover.jpg.jpg)
 
 **Tools:** SQL · Power BI  
 
