@@ -45,7 +45,7 @@ a full year of transaction data.
 ## Dashboards
 
 ### Credit Card Transaction Report
-![Transaction Dashboard](transaction_dashboard.png)
+![Transaction Dashboard](transaction_dashboard.png.PNG)
 
 ---
 
